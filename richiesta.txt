@@ -1,0 +1,9 @@
+Noleggio imbarcazioni
+
+La società NOLOVELA noleggia barche a vela ai soci della società e a clienti esterni. 
+Le barche sono identificate da una matricola, hanno un nome, una nazionalità, una lunghezza e appartengono alla NOLOVELA. 
+I soci della società hanno un codice fiscale, un nome, un recapito e un numero di tessera; ciascun socio possiede un certo numero di quote. 
+L'amministratore della società è un socio che viene eletto annualmente ed è responsabile del bilancio. Il noleggio delle imbarcazioni comprende lo skipper, che è un socio della società. 
+Di ciascun noleggio si registrano l'intestatario (socio o cliente esterno), il numero di passeggeri, la data d'inizio, il numero di giorni, il percorso di navigazione e l'importo totale del noleggio. 
+Ciascun percorso di navigazione viene memorizzato come sequenza di tappe fra 2 porti. 
+I porti sono caratterizzati da un nome, le coordinate geografiche e un costo di ormeggio. 
