@@ -1,4 +1,4 @@
-Compito di Palese e Gesualdi
+Compito di Palese, Sciutti e Gesualdi
 Entità che utilizzeremo:
 1. Barca --> matricola, nome, nazionalita, lunghezza;
 2. Socio --> CF, nome, cognome, email, idTessera;
