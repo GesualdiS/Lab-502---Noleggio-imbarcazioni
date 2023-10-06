@@ -6,5 +6,6 @@ Entità che utilizzeremo:
 4. Skipper --> è un socio
 5. Noleggio --> intestatario, numeroPasseggeri, dataInizio, numeroGiorni, percorsoNavigazione, importoNoleggio;
 6. Porto --> nome, coordinateGeografiche, costoOrmeggio;
-
-Primo progetto su miro: https://miro.com/app/board/uXjVNfjHJco=/?share_link_id=70113616814
+--------------------------------------------------------
+Diagramma ER:
+![Alt text](<Progetto 502.jpg>)
